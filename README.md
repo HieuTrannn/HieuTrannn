@@ -64,7 +64,7 @@ const hieuTran = {
 
 <h3>🔧 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" alt="VS Code, IntelliJ, Postman, Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,cursor,windsurf,dbeaver,mockoon" alt="VS Code, IntelliJ, Postman, Figma, Cursor, Windsurf, DBeaver, Mockoon" />
   <img src="https://img.shields.io/badge/Cursor-AI_Editor-000?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor" />
   <img src="https://img.shields.io/badge/Windsurf-IDE-00d9ff?style=for-the-badge" height="28" alt="Windsurf" />
   <img src="https://img.shields.io/badge/DBeaver-Database-FF6C37?style=for-the-badge&logo=dbeaver&logoColor=white" height="28" alt="DBeaver" />
@@ -76,12 +76,18 @@ const hieuTran = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HieuTrannn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=HieuTrannn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/HieuTrannn">
+    <img src="https://img.shields.io/github/followers/HieuTrannn?color=00d9ff&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://github.com/HieuTrannn?tab=repositories">
+    <img src="https://img.shields.io/github/stars/HieuTrannn?affiliations=OWNER&color=00d9ff&label=Stars&logo=github&style=for-the-badge" alt="Stars" />
+  </a>
+  <a href="https://github.com/HieuTrannn">
+    <img src="https://img.shields.io/badge/Profile-HieuTrannn-00d9ff?style=for-the-badge&logo=github" alt="Profile" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrannn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img height="165" src="https://github-contributor-stats.vercel.app/api?username=HieuTrannn&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
 
