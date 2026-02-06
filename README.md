@@ -64,11 +64,7 @@ const hieuTran = {
 
 <h3>🔧 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,cursor,windsurf,dbeaver,mockoon" alt="VS Code, IntelliJ, Postman, Figma, Cursor, Windsurf, DBeaver, Mockoon" />
-  <img src="https://img.shields.io/badge/Cursor-AI_Editor-000?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Windsurf-IDE-00d9ff?style=for-the-badge" height="28" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/DBeaver-Database-FF6C37?style=for-the-badge&logo=dbeaver&logoColor=white" height="28" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/Mockoon-API_Mock-FF6C37?style=for-the-badge" height="28" alt="Mockoon" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" alt="VS Code, IntelliJ, Postman, Figma" />
 </p>
 
 ---
