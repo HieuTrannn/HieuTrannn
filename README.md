@@ -64,11 +64,11 @@ const hieuTran = {
 
 <h3>🔧 Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" alt="Development Tools" />
-  <img src="https://cdn.worldvectorlogo.com/logos/cursor-1.svg" width="48" height="48" alt="Cursor AI" style="background: white; padding: 4px; border-radius: 8px;"/>
-  <img src="https://avatars.githubusercontent.com/u/181536108?s=200&v=4" width="48" height="48" alt="Windsurf" style="border-radius: 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="48" height="48" alt="DBeaver"/>
-  <img src="https://mockoon.com/images/logo-square-colored.svg" width="48" height="48" alt="Mockoon"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" alt="VS Code, IntelliJ, Postman, Figma" />
+  <img src="https://img.shields.io/badge/Cursor-AI_Editor-000?style=for-the-badge&logo=cursor&logoColor=white" height="28" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Windsurf-IDE-00d9ff?style=for-the-badge" height="28" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/DBeaver-Database-FF6C37?style=for-the-badge&logo=dbeaver&logoColor=white" height="28" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/Mockoon-API_Mock-FF6C37?style=for-the-badge" height="28" alt="Mockoon" />
 </p>
 
 ---
@@ -76,17 +76,17 @@ const hieuTran = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HieuTrannn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="HieuTrannn's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=HieuTrannn&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="HieuTrannn's Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HieuTrannn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=HieuTrannn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrannn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HieuTrannn&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTrannn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-contributor-stats.vercel.app/api?username=HieuTrannn&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HieuTrannn&custom_title=Hieu%20Tran's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&title_color=00d9ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HieuTrannn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
