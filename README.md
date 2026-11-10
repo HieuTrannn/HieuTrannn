@@ -1,120 +1,65 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hello!+Welcome+to+my+GitHub;Trần+Trung+Hiếu;✨+Fullstack+Developer+%7C+FPTU" alt="Typing SVG" />
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=HieuTrannn&color=00d9ff&style=flat-square&label=Profile+Views)
-  [![GitHub followers](https://img.shields.io/github/followers/HieuTrannn?style=social)](https://github.com/HieuTrannn)
-  
+
+# Tran Trung Hieu (Trần Trung Hiếu)
+
+**.NET Backend Developer** · Software Engineering graduate, FPT University (09/2026) · Ho Chi Minh City
+
+Open to Fresher/Junior .NET Backend roles
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hieutran4525@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-ba960634b/)
+
 </div>
 
-<br/>
+## About
 
-<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/male-software-engineer-14078965-11336990.gif" />
+- **.NET Backend Developer Intern at FPT Software Ho Chi Minh** (05/2025 – 09/2025): cinema ticket booking system — real-time seat holding with SignalR, VNPay/MoMo payment integration, MongoDB transactions.
+- Built the backends of two shipped projects (~300 and 135 REST APIs): background jobs, payment integrations, automated tests, CI/CD.
+- Focus: clean, testable APIs (Clean Architecture, CQRS), data consistency (idempotency, transactions), DevOps basics.
 
-<h2>👨‍💻 About Me</h2>
+## Featured Projects
 
-```typescript
-const hieuTran = {
-    role: "Fullstack Developer",
-    location: "Vietnam 🇻🇳",
-    education: "FPTU Student",
-    interests: ["Web Development", "Cloud Computing", "DevOps"],
-    quote: "Code is like humor. When you have to explain it, it's bad." – Cory House
-};
-```
+### [GreenLens](https://github.com/Capstonne-Project/greenlens-service)
 
-### 🌟 What I Do
-- 🔭 Building scalable web applications
-- 🌱 Learning new technologies every day
-- 💡 Love solving complex problems
-- 🎯 Focus on clean code & best practices
+Crowdsourced pollution-reporting platform — capstone project, graded 8.1/10.\
+**Role:** Backend Developer — entire backend except the map module.\
+**Tech:** .NET 9, ASP.NET Core, EF Core, PostgreSQL, Redis, Hangfire, SignalR, Docker, GitHub Actions
 
-<br clear="right"/>
+- ~300 REST APIs implementing 185 business rules for 8 roles (Clean Architecture + CQRS)
+- 18 Hangfire jobs with idempotent retries; 476 unit/integration tests (xUnit, Testcontainers); CI/CD with automatic rollback
+
+### [Bonddy](https://github.com/HieuTrannn/BonddyPlatform)
+
+Platform connecting travelers with local buddies — EXE101 startup project, Top 10 FIP Youth Startup 2025.\
+**Role:** Built the entire backend.\
+**Tech:** ASP.NET Core, EF Core, PostgreSQL, SignalR, PayOS, PayPal, Docker, Nginx
+
+- 135 REST APIs covering the trip → booking → payment → review flow
+- PayOS/PayPal integration with webhook signature verification; production deployment on a VPS with Docker, Nginx, GitHub Actions
+
+## Tech Stack
+
+**Languages**<br>
+![C#, Java](https://skillicons.dev/icons?i=cs,java)
+
+**Backend**<br>
+![.NET](https://skillicons.dev/icons?i=dotnet)
+
+**Databases** (+ SQL Server)<br>
+![PostgreSQL, MongoDB, Redis](https://skillicons.dev/icons?i=postgres,mongodb,redis)
+
+**DevOps & Tools**<br>
+![Docker, Nginx, GitHub Actions, Git, GitHub](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github)
+
+Also: EF Core, SignalR, Hangfire, xUnit, Testcontainers, JWT/OAuth2, Jira, Scrum
+
+Currently learning: Go, Azure
+
+## Achievements
+
+- Top 10 — FIP Youth Startup 2025 (FPT Innovation Path Club, FPT University)
+- Capstone project graded 8.1/10
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3>💻 Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,javascript,typescript" alt="Languages" />
-</p>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
-</p>
-
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" alt="Backend" />
-</p>
-
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" alt="Databases" />
-</p>
-
-<h3>☁️ Cloud & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,docker" alt="Cloud & DevOps" />
-</p>
-
-<h3>🔧 Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" alt="VS Code, IntelliJ, Postman, Figma" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <a href="https://github.com/HieuTrannn">
-    <img src="https://img.shields.io/github/followers/HieuTrannn?color=00d9ff&label=Followers&logo=github&style=for-the-badge" alt="Followers" />
-  </a>
-  <a href="https://github.com/HieuTrannn?tab=repositories">
-    <img src="https://img.shields.io/github/stars/HieuTrannn?affiliations=OWNER&color=00d9ff&label=Stars&logo=github&style=for-the-badge" alt="Stars" />
-  </a>
-  <a href="https://github.com/HieuTrannn">
-    <img src="https://img.shields.io/badge/Profile-HieuTrannn-00d9ff?style=for-the-badge&logo=github" alt="Profile" />
-  </a>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-contributor-stats.vercel.app/api?username=HieuTrannn&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HieuTrannn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<h2 align="center">📫 Connect With Me</h2>
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-ba960634b/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/navyrocc?locale=vi_VN)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieutran4525@gmail.com)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/41950698/file/original-c92d07d23c57030624b130461b69bbf6.gif" width="600" alt="Coding Animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Outro" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" width="100%" />
-</div>
+Contact: [hieutran4525@gmail.com](mailto:hieutran4525@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-ba960634b/)
